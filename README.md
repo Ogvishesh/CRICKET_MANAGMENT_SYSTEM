@@ -56,7 +56,7 @@ This project demonstrates:
 ---
 
 ## 📸 Visual Diagram  
-![ER Diagram](ER_DIAGRAM/ER_DIAGRAM.png)  
+![ER Diagram](CRICKET_MANAGMENT_SYSTEM\ER_DIAGRAM\ER.jpeg)  
 
 ---
 
