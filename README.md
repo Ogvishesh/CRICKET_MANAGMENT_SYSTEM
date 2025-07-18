@@ -6,7 +6,7 @@ A complete **Cricket Tournament Management System** built using **MySQL**, featu
 ---
 
 ## 📌 Project Overview
-Cricket Management System is designed to **manage and analyze cricket tournament data**. It covers details like teams, players, matches, auctions, and statistics, inspired by **IPL 2025** format.
+Cricket Management System is designed to **manage and analyze cricket tournament data**. It covers details like teams, players, matches, auctions, and statistics, inspired by **IPL** format.
 
 This project demonstrates:
 ✔ Database **Normalization**
